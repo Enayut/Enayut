@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Enayut
-- 👀 I’m interested in doing something purposeful in life 
-- 🌱 I’m currently learning DSA javascript and how to navigate through college
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning how to learn
 - 📫 How to reach me: heres my discord _vishwesh
 
 <!---
