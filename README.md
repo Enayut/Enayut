@@ -142,7 +142,7 @@ const Enayut = {
   
 ### 🐍 Contribution Snake
 
-![Snake animation](https://github.com/enayut/enayut/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://enayut.github.io/Enayut/github-contribution-grid-snake.svg)
 
 </div>
 
