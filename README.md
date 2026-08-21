@@ -95,35 +95,6 @@ const Enayut = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enayut&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enayut&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Enayut&theme=synthwave&hide_border=true" alt="GitHub Streak" width="70%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Enayut&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" width="100%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Enayut&limit=5&theme=synthwave&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="70%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## ✍️ Random Dev Quote
 
 <div align="center">
