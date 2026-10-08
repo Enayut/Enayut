@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&section=header"/>
-</div>
+![My skyline](https://raw.githubusercontent.com/Enayut/Enayut/output/skyline.svg)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A;Tech+Enthusiast+%F0%9F%92%BB;Problem+Solver+%E2%9C%A8" alt="Typing SVG" />
@@ -102,10 +100,6 @@ const Enayut = {
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 Contribution Graph
-
-![My skyline](https://raw.githubusercontent.com/Enayut/Enayut/output/skyline.svg)
 
 </div>
 
