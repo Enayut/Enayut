@@ -105,15 +105,7 @@ const Enayut = {
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enayut&custom_title=Enayut's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=9745f5&line=9745f5&point=ffffff&area_color=9745f5&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-</div>
-
-<div align="center">
-  
-### 🐍 Contribution Snake
-
-![Snake animation](https://enayut.github.io/Enayut/github-contribution-grid-snake.svg)
+![My skyline](https://raw.githubusercontent.com/Enayut/Enayut/output/skyline.svg)
 
 </div>
 
